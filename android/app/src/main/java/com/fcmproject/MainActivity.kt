@@ -1,4 +1,4 @@
-package com.fcmproject
+package com.example.tkmessage
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

@@ -1,4 +1,4 @@
-package com.fcmproject
+package com.example.tkmessage
 
 import android.app.Application
 import com.facebook.react.PackageList

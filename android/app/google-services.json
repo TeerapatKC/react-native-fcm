@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480970135879",
+    "project_id": "tk-message",
+    "storage_bucket": "tk-message.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480970135879:android:eea7ec7aed07e5645a9462",
+        "android_client_info": {
+          "package_name": "com.example.tkmessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5dyR6oT86aAEJLArPuaeNCuBE2BjY0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
