@@ -46,7 +46,7 @@ const App = () => {
   }, []);
 
   return (
-    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', padding: 30 }}>
       <Text style={{ fontSize: 16, marginBottom: 20 }}>FCM Token:</Text>
       <Text selectable style={{ fontSize: 12, marginBottom: 20 }}>{fcmToken}</Text>
       <Button
